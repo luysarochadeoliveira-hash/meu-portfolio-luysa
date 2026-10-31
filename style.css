@@ -1,4 +1,3 @@
-
 :root {
 
     /* Fontes */
@@ -69,7 +68,7 @@ header {
     border-bottom: 0.0625rem solid #E9DCE8;
 }
 
-header > a {
+header>a {
     color: var(--cor-btn-secundario);
     font-size: 1.25rem;
     font-weight: 600;
@@ -218,7 +217,7 @@ header nav ul a {
     margin-bottom: 1rem;
 }
 
-.projetos-section > p {
+.projetos-section>p {
     color: #000000;
     font-size: 1rem;
     line-height: 1.5;
