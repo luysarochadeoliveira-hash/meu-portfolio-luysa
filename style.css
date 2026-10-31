@@ -91,7 +91,7 @@ header nav ul a {
 
 .hero-section {
     background: var(--bg-destaque);
-    min-height: 90dvh;
+    min-height: calc(100dvh - 3.125rem);
     text-align: center;
 
     display: flex;
@@ -190,7 +190,7 @@ header nav ul a {
 
 .sobre-section p {
     color: #000000;
-    font-size: 0.875rem;
+    font-size: 1rem;
     line-height: 1.6;
     margin-bottom: 1rem;
 }
@@ -220,7 +220,7 @@ header nav ul a {
 
 .projetos-section > p {
     color: #000000;
-    font-size: 0.875rem;
+    font-size: 1rem;
     line-height: 1.5;
     margin-bottom: 3rem;
 }
